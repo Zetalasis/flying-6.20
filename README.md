@@ -1,10 +1,11 @@
+```
      ______      _
     / __/ /_  __(_)___  ____ _
    / /_/ / / / / / __ \/ __ `/            original source available at
   / __/ / /_/ / / / / / /_/ /             ftp.x.org:/contrib/games/multiplayer
  /_/ /_/\__, /_/_/ /_/\__, /  V6.20
        /____/        /____/
-
+```
 
  To create the executable, you can either use one of the supplied makefiles
  or the Imakefile. You should take a look at the beginning of the Imakefile,
@@ -54,14 +55,14 @@
 
 
  Have fun.
-
+```
         __  __     __                __     __  __                 _
        / / / /__  / /___ ___  __  __/ /_   / / / /___  ___  ____  (_)___ _
       / /_/ / _ \/ / __ `__ \/ / / / __/  / /_/ / __ \/ _ \/ __ \/ / __ `/
      / __  /  __/ / / / / / / /_/ / /_   / __  / /_/ /  __/ / / / / /_/ /
   _ /_/ /_/\___/_/_/ /_/ /_/\__,_/\__/  /_/ /_/\____/\___/_/ /_/_/\__, /
  /__________________________________e-mail: Helmut.Hoenig@hub.de______/
-
+```
 
 
  Building on modern Linux (2026 port notes):
