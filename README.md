@@ -1,4 +1,11 @@
-## xpool aka "Flying" port for mondern linux
+## xpool aka "Flying" port for modern Linux
+
+A few minor edits where made to get this classic x11 game running under modern Linux
+
+Original source code at:
+https://www.ibiblio.org/pub/X11/contrib/games/multiplayer/
+
+
 
 ```
      ______      _
